@@ -1,0 +1,26 @@
+img{
+    margin-left: 595px;
+    margin-top: 50px;
+    
+}
+
+p{
+    text-align: center;
+}
+
+button{
+    color: aliceblue;
+    background-color: rgb(0, 119, 255);
+    margin-left: 590px;
+    height: 25px;
+    width: 105px;
+    border-radius: 2px;
+}
+
+.para{
+    font-size: large;
+}
+
+button:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,152 @@
+.background {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100vw;
+    min-height: 100vh;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+  }
+
+  h1{
+    text-align: center;
+    color: azure;
+  }
+
+  p{
+    text-align: center;
+    color:beige;
+  }
+
+  .c1{
+    width: 45px;
+    height: 45px;
+    margin-left: 55px;
+  }
+
+  .c2{
+    width: 45px;
+    height: 45px;
+    margin-left: 55px;
+    margin-top: 20px;
+  }
+
+  .c3{
+    width: 45px;
+    height: 45px;
+    margin-left: 55px;
+    margin-top: 20px;
+  }
+
+  .b1{
+    display: flex;
+    color:aqua;
+    margin-left: 180px;
+    margin-top:-240px;
+  }
+
+  .di{
+    display: flex;
+    color:aliceblue;
+    margin-left: 120px;
+    margin-top:-20px;
+  }
+
+  .b2{
+    display: flex;
+    color:aqua;
+    margin-left: 180px;
+    margin-top:-30px;
+  }
+
+  .di1{
+    display: flex;
+    color: aliceblue;
+    margin-left: 150px;
+    margin-top: -10px;
+  }
+
+  .b3{
+    display: flex;
+    color:aqua;
+    margin-left: 180px;
+    margin-top:-5px;
+  }
+
+  .di2{
+    display: flex;
+    color: aliceblue;
+    margin-left: 120px;
+    margin-top: -13px;
+  }
+
+  #bo{
+    background-color: white;
+    height: 250px;
+    width: 400px;
+    display: flex;
+    margin-left: 700px;
+    margin-top: -230px;
+  }
+
+  .bo1{
+    color: black;
+    font-size: larger;
+    margin-left: 8px;
+    margin-top: -5px;
+    text-align: center;
+  }
+
+  .d1{
+    height: 20px;
+    width: 250px;
+    margin-top: 10px;
+    
+  }
+
+  .bo2{
+    display: flex;
+    color: black;
+    margin-top: 40px;
+    margin-left: -70px;
+  }
+
+  .d2{
+    height: 20px;
+    width: 250px;
+    margin-top: 10px;
+    
+  }
+
+  
+  .d3{
+    height: 20px;
+    width: 250px;
+    margin-top: 10px;
+    
+  }
+
+  .bo3{
+    display: flex;
+    color: black;
+    margin-top: 90px;
+    margin-left: -310px;
+  }
+
+  .bo4{
+    display: flex;
+    color: black;
+    margin-top: 140px;
+    margin-left: -310px;
+  }
+
+  /* button{
+    text-align: center;
+    background-color: aqua;
+    color: white;
+    margin-top: 220px;
+    height: 25px;
+    width: 370px;
+    margin-left: -330px;
+    align-items: center;
+  } */

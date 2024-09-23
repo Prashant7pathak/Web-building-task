@@ -1,0 +1,109 @@
+img {
+    width: 1270px;
+    height: 580px;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content:right;
+    gap: 53px;
+    margin-right: 130px;
+    color: aliceblue;
+    
+}
+
+.background-image {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100vw;
+    min-height: 100vh;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+  }
+
+.logo{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+}
+
+.port{
+    height: 250px;
+    width: 250px;
+    margin-left: 520px;
+    border: 5px;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+    margin-top: -40px;
+}
+
+h2{
+    text-align: center;
+    color: aliceblue;
+    margin-top: -50px;
+}
+
+p{
+    text-align: center;
+    color: aliceblue;
+    margin-top: -20px;
+}
+
+.box1{
+    height: 55px;
+    width: 55px;
+    margin-left: 405px;
+}
+
+.box2{
+    height: 45px;
+    width: 45px;
+    margin-left: 145px;
+}
+
+.box3{
+    height: 45px;
+    width: 45px;
+    margin-left: 145px;
+}
+
+.bt{
+    text-align: center;
+    color: aliceblue;
+    margin-top: -20px;
+}
+
+.box4{
+    height: 25px;
+    width: 25px;
+    margin-left: 690px;
+    display: flex;
+    margin-top:-30px;
+}
+
+.bt:hover{
+    cursor: pointer;
+}
+
+.port:hover{
+    cursor: pointer;
+}
+
+ul:hover{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
